@@ -1,6 +1,7 @@
-title: Introduction to Machine Learning
+---
+title: "Machine Learning Introduction"
 date: 2020-06-26
-
+---
 
 Machine learning is an application of artificial intelligence that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 
