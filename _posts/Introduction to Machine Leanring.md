@@ -12,6 +12,6 @@ date: 2020-06-26
 ## Types of Machine Learning 
 - there are three types of Machine Learning 
 
-1.Supervised Learning
-2.Unsupervised Learning
-3.Reinforcement Learning
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
